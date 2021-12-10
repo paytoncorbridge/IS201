@@ -1,0 +1,42 @@
+.text{
+    color:darkslateblue;
+    font-weight: 400;
+}
+.header{
+    color:indigo;
+    font-weight: bolder;
+    font-size: larger;
+}
+.background{
+    background-color: lavender;
+}
+.rightmenu{
+    top:5px;
+    right:5px;
+    width: 250px;;
+    bottom:64px;
+    padding-left:5px;
+    position:absolute;
+}
+.maroon{
+    color:maroon;
+}
+.border{
+    border-color: white;
+}
+.whitetext{
+    color:white
+}
+.redtext{
+    color:red
+}
+.tableaupic{
+    padding-top:30px
+}
+.pictures{
+    width:500px;
+    height:500px;
+}
+.total{
+    text-align: center;
+}
